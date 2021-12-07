@@ -1,4 +1,4 @@
-class GreetingsController < ApplicationController
+class V1::GreetingsController < ApplicationController
   before_action :set_greeting, only: [:show, :update, :destroy]
 
   # GET /greetings
