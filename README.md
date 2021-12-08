@@ -6,7 +6,8 @@ This a Ruby on Rails project is for test the gem with React and display multiple
 
 - ![Ruby](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=61DAFB)
 
-## Getting Started
+## Front-end repo
+- https://github.com/miguelesco/hello-react-front-end
 
 ### Installation
 
